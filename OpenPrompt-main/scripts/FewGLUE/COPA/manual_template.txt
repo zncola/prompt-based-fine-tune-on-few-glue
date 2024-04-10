@@ -1,0 +1,4 @@
+Option A： {"meta":"choice1"} . Option B: {"meta":"choice2"} . premise: {"placeholder":"text_a"} . Based on the previous premise, the {"meta":"question"} is Option {"mask"}.
+choice1： {"meta":"choice1"} choice2: {"meta":"choice2"} premise: {"placeholder":"text_a"} The {"meta":"question"} is that {"mask"} .
+The Option A is " {"meta":"choice1"} " and the Option B is "{"meta": "choice2"}" . premise: {"placeholder":"text_a"} .  question: The {"meta":"question"} is Option A or Option B ? The answer is Option {"mask"} 
+The Option A is " {"meta":"choice1"} " and the Option B is "{"meta": "choice2"}" . paragraph: {"placeholder":"text_a"} . Based on the previous paragraph, the {"meta":"question"} is Option A or Option B ? It is Option {"mask"} .

@@ -1,0 +1,1 @@
+{"placeholder":"text_a"} {"soft"} the {"soft"}  {"placeholder":"text_b"}{"soft"} ? Answer：{"mask"}{"soft"}

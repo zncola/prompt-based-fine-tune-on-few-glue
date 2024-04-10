@@ -1,0 +1,1 @@
+context: {"placeholder": "text_a", "shortenable":True}  query: {"placeholder": "text_b"} Should the *@placeholder* be replaced by {"meta":"entity"}? {"mask"}

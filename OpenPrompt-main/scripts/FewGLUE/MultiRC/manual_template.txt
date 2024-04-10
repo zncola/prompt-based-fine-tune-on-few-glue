@@ -1,0 +1,5 @@
+question: {"placeholder":"text_b", "shortenable":False} answer: {"meta":"answer", "shortenable":False} paragraph: {"placeholder":"text_a"} {"mask"}
+paragraph: {"placeholder":"text_a"} Quenstion: {"placeholder":"text_b"} ? Is it {"meta":"answer"} ? {"mask"} .
+paragraph: {"placeholder":"text_a"} Quenstion: {"placeholder":"text_b"} ? Is it {"meta":"answer"} ? {"mask"} .
+passage: {"placeholder":"text_a"} . Based on the previous passage, {"placeholder":"text_b"} ? Is " {"meta": "answer"} " a correct answer? {"mask"} . 
+

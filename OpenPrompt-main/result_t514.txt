@@ -1,0 +1,20 @@
+====================
+dataset cb	temp 0	verb 0	model t5	seed 144	shot -1	plm_eval_mode False	init_from_vocab True	eval_every_steps 500	prompt_lr 0.3	optimizer Adafactor	warmup_step_prompt 500	soft_token_num 20	
+BestValAcc:0.9464285714285714	EndValAcc:0.9107142857142857	critical_steps:[500, 500, 500]
+
+====================
+dataset cb	temp 0	verb 0	model t5	seed 144	shot -1	plm_eval_mode False	init_from_vocab True	eval_every_steps 500	prompt_lr 0.3	optimizer Adafactor	warmup_step_prompt 500	soft_token_num 20	
+BestValAcc:0.9464285714285714	EndValAcc:0.9107142857142857	critical_steps:[500, 500, 500]
+
+====================
+dataset cb	temp 0	verb 0	model t5	seed 144	shot -1	plm_eval_mode False	init_from_vocab True	eval_every_steps 500	prompt_lr 0.3	optimizer Adafactor	warmup_step_prompt 500	soft_token_num 20	
+BestValAcc:0.9464285714285714	EndValAcc:0.9107142857142857	critical_steps:[500, 500, 500]
+
+====================
+dataset boolq	temp 0	verb 0	model t5-lm	seed 144	shot -1	plm_eval_mode False	init_from_vocab True	eval_every_steps 500	prompt_lr 0.3	optimizer Adafactor	warmup_step_prompt 500	soft_token_num 20	
+BestValAcc:0.6226299694189602	EndValAcc:0.6217125382262997	critical_steps:[0, 0, 5500]
+
+====================
+dataset cb	temp 0	verb 0	model t5-lm	seed 144	shot -1	plm_eval_mode False	init_from_vocab True	eval_every_steps 500	prompt_lr 0.3	optimizer Adafactor	warmup_step_prompt 500	soft_token_num 20	
+BestValAcc:0.7857142857142857	EndValAcc:0.7857142857142857	critical_steps:[9000, 9000, 9000]
+

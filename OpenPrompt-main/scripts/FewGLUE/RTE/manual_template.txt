@@ -1,0 +1,3 @@
+{"placeholder": "text_a"} Question: {"placeholder": "text_b"} ? the Answer: {"mask"} .
+{"placeholder": "text_a"}  question: {"placeholder": "text_b"} , True or False? answer : {"mask"}
+{"placeholder": "text_b"} ? {"mask"} , {"placeholder": "text_a"}

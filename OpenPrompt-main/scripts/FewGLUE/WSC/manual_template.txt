@@ -1,0 +1,3 @@
+{"placeholder":"text_a"} "{"meta":"span2_text"}" refers to "{"meta":"span1_text"}" ? {"mask"} 
+{"placeholder":"text_a"} In the previous sentence, does "{"meta":"span2_text"}" refers to "{"meta":"span1_text"}" ? {"mask"} .
+{"placeholder":"text_a"} Question: In the passage above, does the {"meta":"span2_text"} refer to {"meta":"span1_text"} ? Answer: {"mask"} .

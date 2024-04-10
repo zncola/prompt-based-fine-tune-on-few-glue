@@ -1,0 +1,4 @@
+{"placeholder": "text_a"}  {"placeholder": "text_b"} the {"meta": "word"}? the {"mask"}
+{"placeholder": "text_a"} {"placeholder": "text_b"} Similar sense of {"meta": "word"} ? {"mask"} .
+{"placeholder": "text_a"} {"placeholder": "text_b"} Does {"meta": "word"} have the same meaning in both sentences? {"mask"}
+sentence1: {"placeholder": "text_a"} sentence2: {"placeholder": "text_b"} Does {"meta": "word"} have the same meaning in both sentences? {"mask"}
